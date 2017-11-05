@@ -4,50 +4,18 @@
             "faces": [
                 {
                     "age": {
-                        "max": 17,
-                        "score": 0.406435
+                        "max": 24,
+                        "min": 18,
+                        "score": 0.502411
                     },
                     "face_location": {
-                        "height": 86,
-                        "left": 211,
-                        "top": 84,
-                        "width": 81
+                        "height": 81,
+                        "left": 362,
+                        "top": 27,
+                        "width": 73
                     },
                     "gender": {
                         "gender": "MALE",
-                        "score": 0.982014
-                    }
-                },
-                {
-                    "age": {
-                        "max": 17,
-                        "score": 0.917613
-                    },
-                    "face_location": {
-                        "height": 44,
-                        "left": 372,
-                        "top": 35,
-                        "width": 42
-                    },
-                    "gender": {
-                        "gender": "FEMALE",
-                        "score": 0.817574
-                    }
-                },
-                {
-                    "age": {
-                        "max": 44,
-                        "min": 35,
-                        "score": 0.403753
-                    },
-                    "face_location": {
-                        "height": 59,
-                        "left": 178,
-                        "top": 54,
-                        "width": 39
-                    },
-                    "gender": {
-                        "gender": "FEMALE",
                         "score": 0.989013
                     }
                 }

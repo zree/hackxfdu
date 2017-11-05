@@ -304,8 +304,6 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 OpenPose/
-hiphop/
 rapidjson/
-*.zip
-*.mp3
-*.mp4
+hiphop/
+hiphop.mp4
